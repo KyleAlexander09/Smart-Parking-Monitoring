@@ -5,7 +5,7 @@
 - Guerrero Jovert A.
 - Matira Kyle Alexander M.
 - Mendoza E-Jay C.
-#Smart Parking Monitoring
+# Smart Parking Monitoring
 
 # Video Prentation
 
