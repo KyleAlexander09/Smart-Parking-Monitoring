@@ -8,6 +8,8 @@
 # Smart Parking Monitoring
 
 # Video Prentation
+https://youtu.be/ducm2wSSf1s?si=VqlyrvBW2Qg30n7e
+
 
 #PPT: https://www.canva.com/design/DAGKuqmTvtI/7Z_TpN6s9m2_j4dawOviow/edit?utm_content=DAGKuqmTvtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
