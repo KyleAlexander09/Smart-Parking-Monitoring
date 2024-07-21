@@ -1,0 +1,71 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Dart",
+        "type": "dart",
+        "request": "launch",
+        "program": "bin/main.dart"
+      },
+      {
+        "name": "Dart: Attach to Process",
+        "type": "dart",
+        "request": "attach"
+      },
+      {
+        "type": "cmake",
+        "request": "launch",
+        "name": "CMake: Script debugging",
+        "cmakeDebugType": "script",
+        "scriptPath": "${workspaceFolder}/<...>.cmake"
+      },
+      {
+        "type": "cmake",
+        "request": "launch",
+        "name": "CMake: Externally launched",
+        "cmakeDebugType": "external",
+        "pipeName": "<...>"
+      },
+      {
+        "type": "cmake",
+        "request": "launch",
+        "name": "CMake: Configure project",
+        "cmakeDebugType": "configure",
+        "clean": false,
+        "configureAll": false
+      },
+      {
+        "name": "Launch Chrome",
+        "request": "launch",
+        "type": "chrome",
+        "url": "http://localhost:8080",
+        "webRoot": "${workspaceFolder}"
+      },
+
+      {
+        "name": "main.dart",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "debug"
+      },
+      {
+        "name": "Flutter (Profile Mode)",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "profile"
+      },
+      {
+        "name": "Flutter (Release Mode)",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "release"
+      },
+      {
+        "name": "Flutter Test",
+        "request": "launch",
+        "type": "dart",
+        "program": "test/all_tests.dart"
+      }
+    ]
+  }
+  
