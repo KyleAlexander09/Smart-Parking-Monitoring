@@ -1,13 +1,13 @@
 # Smart-Parking-Monitoring
 
+> GROUP MEMBERS :
+- Avila John Cristian M.
+- Guerrero Jovert A.
+- Matira Kyle Alexander M.
+- Mendoza E-Jay C.
 #Smart Parking Monitoring
-Avila John Cristian M. 
-Guerrero Jovert A.
-Matira Kyle Alexander M.
-Mendoza E-Jay C.
 
-
-#Video Presentation:https://drive.google.com/file/d/1DHD6CeEAIf-63aHAjrLIt-47vWZyn9Hu/view?fbclid=IwZXh0bgNhZW0CMTAAAR3IWXY9_TJpfHbygKPLoNCtAx-C6M5HZbuHe_oCuK_ZjLQ6MzGlmKrEROA_aem_jH7VOPyC4BC84A5MMZzatQ
+# Video Prentation
 
 #PPT: https://www.canva.com/design/DAGKuqmTvtI/7Z_TpN6s9m2_j4dawOviow/edit?utm_content=DAGKuqmTvtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
