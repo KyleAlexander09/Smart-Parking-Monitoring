@@ -9,7 +9,7 @@
 
 # Video Prentation
 https://youtu.be/ducm2wSSf1s?si=VqlyrvBW2Qg30n7e
-
+https://drive.google.com/file/d/1Qlls7lo6C_xHUoYLv_4-kKlEcRH-tp09/view?fbclid=IwY2xjawEQbIFleHRuA2FlbQIxMAABHWskAVfP09LAGc0s4v2Q_M52C74QWB5XQOy0ZaDFQ8gNklN20SOGpW72RA_aem_39CwyCxN6Y1WaMoJ_ypKrA
 
 #PPT: https://www.canva.com/design/DAGKuqmTvtI/7Z_TpN6s9m2_j4dawOviow/edit?utm_content=DAGKuqmTvtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
