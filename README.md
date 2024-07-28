@@ -6,6 +6,16 @@
 - Matira Kyle Alexander M.
 - Mendoza E-Jay C.
 # Smart Parking Monitoring
+A smart parking monitoring mobile app is a software application designed for smartphones and tablets that helps users locate and manage parking spaces. The app connects to a network of sensors and cameras in parking facilities, collecting data on parking space availability and occupancy. This information is then processed and presented to users in an intuitive interface, guiding them to available spots and providing additional features like reservations and payments.
+> Key Features :
+- Real-Time Availability: Shows up-to-date information on available parking spaces.
+- Navigation Assistance: Provides directions to the nearest available parking spot.
+- Reservation System: Allows users to book parking spaces in advance.
+- Notifications and Alerts: Sends reminders about parking expiry and availability updates.
+- Parking History and Analytics: Keeps a record of past parking sessions and offers insights into usage patterns.
+- Reservation System: Allows users to book parking spaces in advance.
+- Payment Integration: Enables users to pay for parking through the app, using various payment methods.
+
 
 # Video Prentation
 https://www.youtube.com/watch?v=e1d8fcIzxTM
