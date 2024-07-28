@@ -16,7 +16,7 @@ A smart parking monitoring mobile app is a software application designed for sma
 - Reservation System: Allows users to book parking spaces in advance.
 - Payment Integration: Enables users to pay for parking through the app, using various payment methods.
 
-- Smart parking monitoring mobile apps are revolutionizing the parking industry by integrating advanced technologies and offering a host of user-centric features. These apps not only improve the efficiency of parking management but also significantly enhance the user experience. As cities become smarter and more connected, the adoption of smart parking solutions will continue to grow, contributing to more sustainable and livable urban environments.
+> Smart parking monitoring mobile apps are revolutionizing the parking industry by integrating advanced technologies and offering a host of user-centric features. These apps not only improve the efficiency of parking management but also significantly enhance the user experience. As cities become smarter and more connected, the adoption of smart parking solutions will continue to grow, contributing to more sustainable and livable urban environments.:
 
 
 # Video Prentation
